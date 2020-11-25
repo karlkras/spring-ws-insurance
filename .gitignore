@@ -1,0 +1,6 @@
+.idea/
+nbproject/
+target/
+*.iml
+nb-*.xml
+nbactions.xml
